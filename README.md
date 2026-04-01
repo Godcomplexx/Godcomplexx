@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Daria 👋
 
-<!--
-**Godcomplexx/Godcomplexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+R&D Systems Engineer focused on AI + Neurotechnology
 
-Here are some ideas to get you started:
+I build real-world AI systems:
+from biosignals → ML models → embedded devices → applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Core Areas
+
+• EEG / EMG signal processing  
+• Brain-Computer Interfaces (BCI)  
+• Computer Vision in medical applications  
+• Embedded AI systems  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Concussion Screening Device
+Edge AI system for detecting concussion using pupillary response  
+→ Embedded + ML + hardware  
+
+### 🧠 EEG Speller (P300 + LLM)
+Brain-computer interface with predictive text  
+→ BCI + ML + LLM  
+
+### 🧠 MRI Segmentation
+Microservice-based medical imaging platform  
+→ ML + backend + infra  
+
+---
+
+## 🛠 Tech Stack
+
+Python • PyTorch • FastAPI • Docker • OpenCV  
+YOLO • EEG / EMG • LSL • Unity  
+
+---
+
+## 🌐 Links
+
+• Portfolio: yoursite  
+• CV: (pdf link)  
+• ArtStation: (если сделаешь)
