@@ -8,7 +8,7 @@ R&D Systems Engineer
 AI + Neurotechnology + Embedded Systems
 
 I build real-world AI systems:  
-from biosignals → models → devices → applications
+from biosignals -> models -> devices -> applications
 
 ## Featured
 - AI-based Concussion Screening Device
@@ -16,6 +16,6 @@ from biosignals → models → devices → applications
 - MRI Segmentation
 
 ## Links
-- Portfolio
-- CV
-- ArtStation
+- [Portfolio](https://godcomplexx.github.io/portfolio/)
+- [CV](https://godcomplexx.github.io/portfolio/resume/Daria_Melnikova_CV.pdf)
+- [ArtStation](https://www.artstation.com/your-username)
