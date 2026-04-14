@@ -17,5 +17,5 @@ from biosignals -> models -> devices -> applications
 
 ## Links
 - [Portfolio](https://godcomplexx.github.io/portfolio/)
-- [CV](https://godcomplexx.github.io/portfolio/resume/Daria_Melnikova_CV.pdf)
+- [CV](https://godcomplexx.github.io/portfolio/resume/daria_melnikova_resume_print.html)
 - [ArtStation](https://www.artstation.com/your-username)
