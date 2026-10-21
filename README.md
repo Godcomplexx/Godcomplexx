@@ -1,25 +1,40 @@
-<p align="center">
-  <img src="https://github.com/Godcomplexx/Godcomplexx/raw/main/generation-fa64e377-7e40-4f4f-8039-c775e8d8c866.png" />
+# Daria Melnikova
+### R&D Systems Engineer
+AI · Neurotechnology · Embedded Systems
+
+Building devices and applications that connect biosignals, AI, and human interaction.
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,tensorflow,sklearn,opencv,fastapi&theme=dark" alt="Python, C, C++, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,bash,raspberrypi,arduino,blender,unity&theme=dark" alt="Linux, Git, Docker, Bash, Raspberry Pi, Arduino, Blender, Unity" />
 </p>
 
-# Daria Melnikova
+ESP32 · STM32 · RP2040 · ESP-IDF · FreeRTOS  
+MNE-Python · NumPy · Pandas · SciPy  
+EasyEDA · SolidWorks · Plasticity · 3D printing
 
-R&D Systems Engineer  
-AI + Neurotechnology + Embedded Systems
+### Selected projects
 
-I build real-world AI systems:  
-from biosignals -> models -> devices -> applications
+- **AI-based Concussion Screening Device** — embedded AI for concussion screening
+- **Hybrid EEG Speller** — brain–computer interface combining P300 and language models
+- **MRI Segmentation** — deep learning for medical image analysis
 
-## Featured
-- AI-based Concussion Screening Device
-- Hybrid EEG Speller
-- MRI Segmentation
+### Find me
 
-## Links
-- [Portfolio](https://godcomplexx.github.io/portfolio/)
-- [CV](https://godcomplexx.github.io/portfolio/resume/daria_melnikova_resume_print.html)
-- [ArtStation](https://www.artstation.com/shakbo19)
-<br>
+[Portfolio](https://godcomplexx.github.io/portfolio/) ·
+[CV](https://godcomplexx.github.io/portfolio/resume/daria_melnikova_resume_print.html) ·
+[ArtStation](https://www.artstation.com/shakbo19)
+
+---
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Godcomplexx&theme=highcontrast&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godcomplexx&langs_count=8&layout=compact&theme=highcontrast&hide_border=true" alt="Most used languages" />
+</p>
 
 <picture>
   <source
